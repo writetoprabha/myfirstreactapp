@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "address": "851 annagladys dr",
+    "country": "India",
+    "description": "A superb detactched victorian property",
+    "price": 90000,
+    "photo": "277677"
+}, {
+    "id": 2,
+    "address": "961 annagladys dr",
+    "country": "Australia",
+    "description": "A semi detactched australian property",
+    "price": 80000,
+    "photo": "277678"
+},{
+    "id": 3,
+    "address": "8311 falling water ln",
+    "country": "USA",
+    "description": "A wonderful american property",
+    "price": 80000,
+    "photo": "277679"
+},{
+    "id": 4,
+    "address": "8491 oak village blvd",
+    "country": "Canada",
+    "description": "A high value property",
+    "price": 80000,
+    "photo": "277680"
+},{
+    "id": 5,
+    "address": "500 srtaton christiana road",
+    "country": "Cuba",
+    "description": "A Cuban property",
+    "price": 80000,
+    "photo": "277681"
+}]
