@@ -7,6 +7,7 @@ import HouseFilter from './house-filter';
 import SearchResults from '../search-results';
 import HouseFromQuery from '../search-results/house-from-query';
 
+
 function App() {
   const [allHouses, setHouses] = useState([]);
   useEffect(() => {
